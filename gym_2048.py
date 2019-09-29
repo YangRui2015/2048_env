@@ -59,8 +59,19 @@ class Game2048Env(gym.Env):   # directions 0, 1, 2, 3 are up, right, down, left
         # Initialise seed
         self.seed()
 
-        # Reset ready for a game
-        self.reset()
+        # # Reset ready for a game
+        # self.reset()
+    
+    def _get_info(self, info=None):
+        if not info:
+            info = {}
+        else:
+            assert type(info) == dict, 'info should be of type dict!'
+
+        info['highest'] = self.highest()
+        info['score'] = self.score
+        info['steps'] = self.steps
+        return info
 
     def seed(self, seed=None):
         self.np_random, seed = seeding.np_random(seed)
@@ -103,10 +114,7 @@ class Game2048Env(gym.Env):   # directions 0, 1, 2, 3 are up, right, down, left
             done = False
             reward = self.illegal_move_reward
 
-        #print("Am I done? {}".format(done))
-        info['highest'] = self.highest()
-        info['score'] = self.score
-        info['steps'] = self.steps
+        info = self._get_info(info)
 
         # Return observation (board state), reward, done and info dict
         return self.Matrix, reward, done, info
@@ -120,7 +128,7 @@ class Game2048Env(gym.Env):   # directions 0, 1, 2, 3 are up, right, down, left
         self.add_tile()
         self.add_tile()
 
-        return self.Matrix
+        return self.Matrix, 0, False, self._get_info()
 
     def render(self, mode='human'):
         outfile = StringIO() if mode == 'ansi' else sys.stdout
@@ -282,40 +290,6 @@ class Game2048Env(gym.Env):   # directions 0, 1, 2, 3 are up, right, down, left
         """Retrieve the whole board, useful for testing."""
         self.Matrix = new_board
     
-if __name__ == "__main__":
-    import random
-    import time
-    import numpy as np 
-
-
-    def run():
-        env = Game2048Env()
-        env.render()
-        start = time.time()
-        while True:
-            action = random.randint(0, 3)
-            print('action: {}'.format(action))
-            state, reward, done, info = env.step(action)
-            env.render()
-            if done:
-                print('\nfinished, info:{}'.format(info))
-                break
-        
-        end = time.time()
-        print('episode time:{} s\n'.format(end - start))
-        return end - start, info['highest'], info['score'], info['steps']
-
-    time_lis, highest_lis, score_lis, steps_lis = [], [], [], []
-    for i in range(100):
-        t, highest, score, steps = run()
-        time_lis.append(t)
-        highest_lis.append(highest)
-        score_lis.append(score)
-        steps_lis.append(steps)
-    
-    print('eval result:\naverage episode time:{} s, average highest score:{}, average total score:{}, average steps:{}'.format(np.mean(time_lis), np.mean(highest_lis), np.mean(score_lis), np.mean(steps_lis)))
-
-
 
 
     
