@@ -1,17 +1,20 @@
-#mini2048
+#Gym 2048 Environment 
 ========
-A Python implementation of 2048 with a minimum GUI in 99 Physical LOC
+Thanks to the author of gym-2048 https://github.com/rgal/gym-2048. The code is easy to understand and running efficiently. I just made some little changes for a better agent training environment.
 
-Not Pythonic, PEP8 is not followed. I wrote this code because I'm boring.
 
-Two modules are included:
+## Performance of environment
+I used random policy to evaluate the performance for 100 times. We can use random policy as a baseline.
 
-1) Game control module. Based on numpy, use a 2d ndarray to store the tile values. It takes input of UP, DOWN, LEFT and RIGHT to step forward. 
+average episode time:0.15266018629074096 s; 
+average step time: 1.185 ms；
+average highest score:96.0,;
+average total score:982.0,;
+average steps:128.87;
 
-2) A minimum GUI based on Tk. The color style is referred to <a href="https://github.com/gabrielecirulli/2048">gabrielecirulli/2048</a></p>.
+
 
 #Screenshot:
 ![](https://github.com/frombeijingwithlove/mini2048/blob/master/Screenshot.png)
 
-If you can read Chinese you may find more details here:
-http://www.cnblogs.com/frombeijingwithlove/p/4111016.html
+
