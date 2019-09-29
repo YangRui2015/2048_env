@@ -4,7 +4,8 @@ Thanks to the author of gym-2048 https://github.com/rgal/gym-2048. The code is e
 
 
 ## Performance of environment
-I used random policy to evaluate the performance for 1000 times. We can take random policy as a baseline.
+I used random policy to evaluate the performance for 1000 times. We can take random policy as a baseline.  
+The eval main function is in base_agent.py.
 
 ### (1) with render:  
 average episode time:0.10279795455932617 s;  
