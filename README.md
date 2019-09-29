@@ -12,6 +12,6 @@ average highest score:96.0;
 average total score:982.0;  
 average steps:128.87;  
 
-some example
+some example:  
 ![image](https://github.com/YangRui2015/2048_env/blob/master/pictures/example.png)
 
