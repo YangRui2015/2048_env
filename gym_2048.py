@@ -313,7 +313,7 @@ if __name__ == "__main__":
         score_lis.append(score)
         steps_lis.append(steps)
     
-    print('eval result:\naverage time:{} s, average highest:{}, average score:{}, average steps:{}'.format(np.mean(time_lis), np.mean(highest_lis), np.mean(score_lis), np.mean(steps_lis)))
+    print('eval result:\naverage episode time:{} s, average highest score:{}, average total score:{}, average steps:{}'.format(np.mean(time_lis), np.mean(highest_lis), np.mean(score_lis), np.mean(steps_lis)))
 
 
 
