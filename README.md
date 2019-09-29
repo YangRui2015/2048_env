@@ -6,15 +6,12 @@ Thanks to the author of gym-2048 https://github.com/rgal/gym-2048. The code is e
 ## Performance of environment
 I used random policy to evaluate the performance for 100 times. We can use random policy as a baseline.
 
-average episode time:0.15266018629074096 s; 
-average step time: 1.185 ms；
-average highest score:96.0,;
-average total score:982.0,;
-average steps:128.87;
+average episode time:0.15266018629074096 s;  
+average step time: 1.185 ms；  
+average highest score:96.0;  
+average total score:982.0;  
+average steps:128.87;  
 
-
-
-#Screenshot:
-![](https://github.com/frombeijingwithlove/mini2048/blob/master/Screenshot.png)
-
+some example
+![](https://github.com/YangRui2015/2048_env/blob/master/pictures/example.png)
 
