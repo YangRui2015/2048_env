@@ -1,4 +1,4 @@
-#Gym 2048 Environment 
+# Gym 2048 Environment 
 ========
 Thanks to the author of gym-2048 https://github.com/rgal/gym-2048. The code is easy to understand and runs efficiently. I just made some little changes for a better agent training environment.
 
