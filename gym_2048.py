@@ -37,6 +37,7 @@ def stack(flat, layers=16):
 
 class Game2048Env(gym.Env):   # directions 0, 1, 2, 3 are up, right, down, left
     metadata = {'render.modes': ['human', 'ansi']}
+    max_steps = 10000
 
     def __init__(self):
         # Definitions for game. Board must be square.
@@ -55,6 +56,9 @@ class Game2048Env(gym.Env):   # directions 0, 1, 2, 3 are up, right, down, left
         self.observation_space = spaces.Box(0, 1, (self.w, self.h, layers), dtype=np.int)
         self.set_illegal_move_reward(0.)
         self.set_max_tile(None)
+
+        self.max_illegal = 50     # max number of illegal actions
+        self.num_illegal = 0
 
         # Initialise seed
         self.seed()
@@ -111,8 +115,14 @@ class Game2048Env(gym.Env):   # directions 0, 1, 2, 3 are up, right, down, left
         except IllegalMove as e:
             logging.debug("Illegal move")
             info['illegal_move'] = True
-            done = False
+            if self.steps > self.max_steps:
+                done = True
+            else:
+                done = False
             reward = self.illegal_move_reward
+            self.num_illegal += 1
+            if self.num_illegal >= self.max_illegal:   # exceed the maximum number of illegal actions
+                done = True
 
         info = self._get_info(info)
 
@@ -123,6 +133,7 @@ class Game2048Env(gym.Env):   # directions 0, 1, 2, 3 are up, right, down, left
         self.Matrix = np.zeros((self.h, self.w), np.int)
         self.score = 0
         self.steps = 0
+        self.num_illegal = 0
 
         logging.debug("Adding tiles")
         self.add_tile()
@@ -271,6 +282,9 @@ class Game2048Env(gym.Env):   # directions 0, 1, 2, 3 are up, right, down, left
            must be legal moves."""
 
         if self.max_tile is not None and self.highest() == self.max_tile:
+            return True
+        
+        if self.steps >= self.max_steps:
             return True
 
         for direction in range(4):
