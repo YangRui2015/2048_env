@@ -24,3 +24,6 @@ average steps:141.288;
 some example:  
 ![image](https://github.com/YangRui2015/2048_env/blob/master/pictures/example.png)
 
+
+## Update
+1. add max steps and max illegal steps of one episode;
