@@ -1,0 +1,2094 @@
+Logging to ./log/
+--------------------------------
+| episode reward    | 572      |
+| episode steps     | 88       |
+| epsilon           | 0.15     |
+| highest           | 64       |
+| training progress | 5e-05    |
+--------------------------------
+--------------------------------
+| episode reward    | 244      |
+| episode steps     | 52       |
+| epsilon           | 0.15     |
+| highest           | 32       |
+| training progress | 0.0003   |
+--------------------------------
+--------------------------------
+| episode reward    | 232      |
+| episode steps     | 49       |
+| epsilon           | 0.15     |
+| highest           | 32       |
+| training progress | 0.00055  |
+--------------------------------
+--------------------------------
+| episode reward    | 228      |
+| episode steps     | 53       |
+| epsilon           | 0.15     |
+| highest           | 32       |
+| training progress | 0.0008   |
+--------------------------------
+--------------------------------
+| episode reward    | 544      |
+| episode steps     | 85       |
+| epsilon           | 0.15     |
+| highest           | 64       |
+| training progress | 0.00105  |
+--------------------------------
+--------------------------------
+| episode reward    | 468      |
+| episode steps     | 69       |
+| epsilon           | 0.15     |
+| highest           | 64       |
+| training progress | 0.0013   |
+--------------------------------
+---------------------------------
+| eval average score | 15.8     |
+| eval max socre     | 100      |
+---------------------------------
+--------------------------------
+| episode reward    | 392      |
+| episode steps     | 55       |
+| epsilon           | 0.15     |
+| highest           | 64       |
+| training progress | 0.00155  |
+--------------------------------
+--------------------------------
+| episode reward    | 584      |
+| episode steps     | 87       |
+| epsilon           | 0.15     |
+| highest           | 64       |
+| training progress | 0.0018   |
+--------------------------------
+--------------------------------
+| episode reward    | 168      |
+| episode steps     | 39       |
+| epsilon           | 0.15     |
+| highest           | 32       |
+| training progress | 0.00205  |
+--------------------------------
+--------------------------------
+| episode reward    | 572      |
+| episode steps     | 86       |
+| epsilon           | 0.15     |
+| highest           | 64       |
+| training progress | 0.0023   |
+--------------------------------
+--------------------------------
+| episode reward    | 228      |
+| episode steps     | 46       |
+| epsilon           | 0.15     |
+| highest           | 32       |
+| training progress | 0.00255  |
+--------------------------------
+---------------------------------
+| eval average score | 10.6     |
+| eval max socre     | 92       |
+---------------------------------
+--------------------------------
+| episode reward    | 232      |
+| episode steps     | 47       |
+| epsilon           | 0.15     |
+| highest           | 32       |
+| training progress | 0.0028   |
+--------------------------------
+--------------------------------
+| episode reward    | 972      |
+| episode steps     | 110      |
+| epsilon           | 0.15     |
+| highest           | 128      |
+| training progress | 0.00305  |
+--------------------------------
+--------------------------------
+| episode reward    | 588      |
+| episode steps     | 91       |
+| epsilon           | 0.15     |
+| highest           | 64       |
+| training progress | 0.0033   |
+--------------------------------
+--------------------------------
+| episode reward    | 796      |
+| episode steps     | 100      |
+| epsilon           | 0.15     |
+| highest           | 64       |
+| training progress | 0.00355  |
+--------------------------------
+--------------------------------
+| episode reward    | 256      |
+| episode steps     | 53       |
+| epsilon           | 0.15     |
+| highest           | 32       |
+| training progress | 0.0038   |
+--------------------------------
+---------------------------------
+| eval average score | 13.6     |
+| eval max socre     | 136      |
+---------------------------------
+--------------------------------
+| episode reward    | 468      |
+| episode steps     | 75       |
+| epsilon           | 0.15     |
+| highest           | 64       |
+| training progress | 0.00405  |
+--------------------------------
+--------------------------------
+| episode reward    | 336      |
+| episode steps     | 67       |
+| epsilon           | 0.15     |
+| highest           | 32       |
+| training progress | 0.0043   |
+--------------------------------
+--------------------------------
+| episode reward    | 328      |
+| episode steps     | 61       |
+| epsilon           | 0.15     |
+| highest           | 32       |
+| training progress | 0.00455  |
+--------------------------------
+--------------------------------
+| episode reward    | 688      |
+| episode steps     | 88       |
+| epsilon           | 0.15     |
+| highest           | 64       |
+| training progress | 0.0048   |
+--------------------------------
+--------------------------------
+| episode reward    | 228      |
+| episode steps     | 53       |
+| epsilon           | 0.15     |
+| highest           | 32       |
+| training progress | 0.00505  |
+--------------------------------
+---------------------------------
+| eval average score | 15.8     |
+| eval max socre     | 112      |
+---------------------------------
+--------------------------------
+| episode reward    | 444      |
+| episode steps     | 70       |
+| epsilon           | 0.149    |
+| highest           | 64       |
+| training progress | 0.0053   |
+--------------------------------
+--------------------------------
+| episode reward    | 228      |
+| episode steps     | 46       |
+| epsilon           | 0.149    |
+| highest           | 32       |
+| training progress | 0.00555  |
+--------------------------------
+--------------------------------
+| episode reward    | 844      |
+| episode steps     | 97       |
+| epsilon           | 0.149    |
+| highest           | 128      |
+| training progress | 0.0058   |
+--------------------------------
+--------------------------------
+| episode reward    | 872      |
+| episode steps     | 111      |
+| epsilon           | 0.149    |
+| highest           | 64       |
+| training progress | 0.00605  |
+--------------------------------
+--------------------------------
+| episode reward    | 468      |
+| episode steps     | 67       |
+| epsilon           | 0.149    |
+| highest           | 64       |
+| training progress | 0.0063   |
+--------------------------------
+---------------------------------
+| eval average score | 12.6     |
+| eval max socre     | 140      |
+---------------------------------
+--------------------------------
+| episode reward    | 720      |
+| episode steps     | 100      |
+| epsilon           | 0.149    |
+| highest           | 64       |
+| training progress | 0.00655  |
+--------------------------------
+--------------------------------
+| episode reward    | 20       |
+| episode steps     | 17       |
+| epsilon           | 0.149    |
+| highest           | 8        |
+| loss              | 5.97     |
+| training progress | 0.0068   |
+--------------------------------
+--------------------------------
+| episode reward    | 56       |
+| episode steps     | 21       |
+| epsilon           | 0.149    |
+| highest           | 16       |
+| loss              | 4.08     |
+| training progress | 0.00705  |
+--------------------------------
+--------------------------------
+| episode reward    | 140      |
+| episode steps     | 40       |
+| epsilon           | 0.149    |
+| highest           | 16       |
+| loss              | 2.91     |
+| training progress | 0.0073   |
+--------------------------------
+--------------------------------
+| episode reward    | 28       |
+| episode steps     | 23       |
+| epsilon           | 0.149    |
+| highest           | 8        |
+| loss              | 3.61     |
+| training progress | 0.00755  |
+--------------------------------
+---------------------------------
+| eval average score | 15.5     |
+| eval max socre     | 108      |
+---------------------------------
+--------------------------------
+| episode reward    | 4        |
+| episode steps     | 13       |
+| epsilon           | 0.149    |
+| highest           | 4        |
+| loss              | 3.65     |
+| training progress | 0.0078   |
+--------------------------------
+--------------------------------
+| episode reward    | 20       |
+| episode steps     | 16       |
+| epsilon           | 0.149    |
+| highest           | 8        |
+| loss              | 3.68     |
+| training progress | 0.00805  |
+--------------------------------
+--------------------------------
+| episode reward    | 16       |
+| episode steps     | 19       |
+| epsilon           | 0.149    |
+| highest           | 4        |
+| loss              | 3.11     |
+| training progress | 0.0083   |
+--------------------------------
+--------------------------------
+| episode reward    | 40       |
+| episode steps     | 27       |
+| epsilon           | 0.149    |
+| highest           | 8        |
+| loss              | 3.24     |
+| training progress | 0.00855  |
+--------------------------------
+--------------------------------
+| episode reward    | 36       |
+| episode steps     | 23       |
+| epsilon           | 0.149    |
+| highest           | 8        |
+| loss              | 3.28     |
+| training progress | 0.0088   |
+--------------------------------
+---------------------------------
+| eval average score | 12.3     |
+| eval max socre     | 72       |
+---------------------------------
+--------------------------------
+| episode reward    | 172      |
+| episode steps     | 47       |
+| epsilon           | 0.149    |
+| highest           | 16       |
+| loss              | 2.96     |
+| training progress | 0.00905  |
+--------------------------------
+--------------------------------
+| episode reward    | 68       |
+| episode steps     | 26       |
+| epsilon           | 0.149    |
+| highest           | 16       |
+| loss              | 2.79     |
+| training progress | 0.0093   |
+--------------------------------
+--------------------------------
+| episode reward    | 56       |
+| episode steps     | 28       |
+| epsilon           | 0.149    |
+| highest           | 8        |
+| loss              | 3.43     |
+| training progress | 0.00955  |
+--------------------------------
+--------------------------------
+| episode reward    | 160      |
+| episode steps     | 45       |
+| epsilon           | 0.149    |
+| highest           | 16       |
+| loss              | 3.14     |
+| training progress | 0.0098   |
+--------------------------------
+--------------------------------
+| episode reward    | 92       |
+| episode steps     | 28       |
+| epsilon           | 0.149    |
+| highest           | 16       |
+| loss              | 3.53     |
+| training progress | 0.01     |
+--------------------------------
+---------------------------------
+| eval average score | 12.3     |
+| eval max socre     | 92       |
+---------------------------------
+--------------------------------
+| episode reward    | 96       |
+| episode steps     | 34       |
+| epsilon           | 0.148    |
+| highest           | 16       |
+| loss              | 3.01     |
+| training progress | 0.0103   |
+--------------------------------
+--------------------------------
+| episode reward    | 0        |
+| episode steps     | 11       |
+| epsilon           | 0.148    |
+| highest           | 2        |
+| loss              | 3.14     |
+| training progress | 0.0106   |
+--------------------------------
+--------------------------------
+| episode reward    | 68       |
+| episode steps     | 26       |
+| epsilon           | 0.148    |
+| highest           | 16       |
+| loss              | 2.95     |
+| training progress | 0.0108   |
+--------------------------------
+--------------------------------
+| episode reward    | 20       |
+| episode steps     | 20       |
+| epsilon           | 0.148    |
+| highest           | 8        |
+| loss              | 3.41     |
+| training progress | 0.0111   |
+--------------------------------
+--------------------------------
+| episode reward    | 80       |
+| episode steps     | 28       |
+| epsilon           | 0.148    |
+| highest           | 16       |
+| loss              | 3.1      |
+| training progress | 0.0113   |
+--------------------------------
+---------------------------------
+| eval average score | 17.9     |
+| eval max socre     | 248      |
+---------------------------------
+--------------------------------
+| episode reward    | 224      |
+| episode steps     | 50       |
+| epsilon           | 0.148    |
+| highest           | 32       |
+| loss              | 3.16     |
+| training progress | 0.0115   |
+--------------------------------
+--------------------------------
+| episode reward    | 64       |
+| episode steps     | 29       |
+| epsilon           | 0.148    |
+| highest           | 8        |
+| loss              | 3.21     |
+| training progress | 0.0118   |
+--------------------------------
+--------------------------------
+| episode reward    | 36       |
+| episode steps     | 22       |
+| epsilon           | 0.148    |
+| highest           | 8        |
+| loss              | 2.82     |
+| training progress | 0.012    |
+--------------------------------
+--------------------------------
+| episode reward    | 16       |
+| episode steps     | 17       |
+| epsilon           | 0.148    |
+| highest           | 8        |
+| loss              | 2.9      |
+| training progress | 0.0123   |
+--------------------------------
+--------------------------------
+| episode reward    | 20       |
+| episode steps     | 18       |
+| epsilon           | 0.148    |
+| highest           | 8        |
+| loss              | 2.98     |
+| training progress | 0.0126   |
+--------------------------------
+---------------------------------
+| eval average score | 12.3     |
+| eval max socre     | 64       |
+---------------------------------
+--------------------------------
+| episode reward    | 4        |
+| episode steps     | 11       |
+| epsilon           | 0.148    |
+| highest           | 4        |
+| loss              | 2.74     |
+| training progress | 0.0128   |
+--------------------------------
+--------------------------------
+| episode reward    | 36       |
+| episode steps     | 22       |
+| epsilon           | 0.148    |
+| highest           | 8        |
+| loss              | 3.11     |
+| training progress | 0.0131   |
+--------------------------------
+--------------------------------
+| episode reward    | 452      |
+| episode steps     | 61       |
+| epsilon           | 0.148    |
+| highest           | 64       |
+| loss              | 2.89     |
+| training progress | 0.0133   |
+--------------------------------
+--------------------------------
+| episode reward    | 16       |
+| episode steps     | 15       |
+| epsilon           | 0.148    |
+| highest           | 8        |
+| loss              | 2.96     |
+| training progress | 0.0135   |
+--------------------------------
+--------------------------------
+| episode reward    | 24       |
+| episode steps     | 24       |
+| epsilon           | 0.148    |
+| highest           | 8        |
+| loss              | 3.14     |
+| training progress | 0.0138   |
+--------------------------------
+---------------------------------
+| eval average score | 26.5     |
+| eval max socre     | 132      |
+---------------------------------
+--------------------------------
+| episode reward    | 40       |
+| episode steps     | 24       |
+| epsilon           | 0.148    |
+| highest           | 8        |
+| loss              | 2.63     |
+| training progress | 0.014    |
+--------------------------------
+--------------------------------
+| episode reward    | 20       |
+| episode steps     | 19       |
+| epsilon           | 0.148    |
+| highest           | 8        |
+| loss              | 3.05     |
+| training progress | 0.0143   |
+--------------------------------
+--------------------------------
+| episode reward    | 68       |
+| episode steps     | 33       |
+| epsilon           | 0.148    |
+| highest           | 8        |
+| loss              | 2.59     |
+| training progress | 0.0146   |
+--------------------------------
+--------------------------------
+| episode reward    | 84       |
+| episode steps     | 41       |
+| epsilon           | 0.148    |
+| highest           | 8        |
+| loss              | 2.96     |
+| training progress | 0.0148   |
+--------------------------------
+--------------------------------
+| episode reward    | 372      |
+| episode steps     | 54       |
+| epsilon           | 0.148    |
+| highest           | 64       |
+| loss              | 2.69     |
+| training progress | 0.015    |
+--------------------------------
+---------------------------------
+| eval average score | 25.7     |
+| eval max socre     | 172      |
+---------------------------------
+--------------------------------
+| episode reward    | 184      |
+| episode steps     | 48       |
+| epsilon           | 0.148    |
+| highest           | 16       |
+| loss              | 2.78     |
+| training progress | 0.0153   |
+--------------------------------
+--------------------------------
+| episode reward    | 92       |
+| episode steps     | 35       |
+| epsilon           | 0.148    |
+| highest           | 16       |
+| loss              | 2.75     |
+| training progress | 0.0155   |
+--------------------------------
+--------------------------------
+| episode reward    | 592      |
+| episode steps     | 86       |
+| epsilon           | 0.148    |
+| highest           | 64       |
+| loss              | 2.97     |
+| training progress | 0.0158   |
+--------------------------------
+--------------------------------
+| episode reward    | 300      |
+| episode steps     | 64       |
+| epsilon           | 0.148    |
+| highest           | 32       |
+| loss              | 2.81     |
+| training progress | 0.016    |
+--------------------------------
+--------------------------------
+| episode reward    | 224      |
+| episode steps     | 51       |
+| epsilon           | 0.148    |
+| highest           | 32       |
+| loss              | 2.25     |
+| training progress | 0.0163   |
+--------------------------------
+---------------------------------
+| eval average score | 40.9     |
+| eval max socre     | 200      |
+---------------------------------
+--------------------------------
+| episode reward    | 24       |
+| episode steps     | 21       |
+| epsilon           | 0.148    |
+| highest           | 8        |
+| loss              | 2.65     |
+| training progress | 0.0165   |
+--------------------------------
+--------------------------------
+| episode reward    | 624      |
+| episode steps     | 96       |
+| epsilon           | 0.148    |
+| highest           | 64       |
+| loss              | 2.68     |
+| training progress | 0.0168   |
+--------------------------------
+--------------------------------
+| episode reward    | 140      |
+| episode steps     | 44       |
+| epsilon           | 0.148    |
+| highest           | 16       |
+| loss              | 2.79     |
+| training progress | 0.017    |
+--------------------------------
+--------------------------------
+| episode reward    | 116      |
+| episode steps     | 37       |
+| epsilon           | 0.148    |
+| highest           | 16       |
+| loss              | 2.3      |
+| training progress | 0.0173   |
+--------------------------------
+--------------------------------
+| episode reward    | 72       |
+| episode steps     | 30       |
+| epsilon           | 0.148    |
+| highest           | 16       |
+| loss              | 2.89     |
+| training progress | 0.0175   |
+--------------------------------
+---------------------------------
+| eval average score | 43.8     |
+| eval max socre     | 260      |
+---------------------------------
+--------------------------------
+| episode reward    | 116      |
+| episode steps     | 41       |
+| epsilon           | 0.148    |
+| highest           | 16       |
+| loss              | 2.81     |
+| training progress | 0.0178   |
+--------------------------------
+--------------------------------
+| episode reward    | 336      |
+| episode steps     | 65       |
+| epsilon           | 0.148    |
+| highest           | 32       |
+| loss              | 2.54     |
+| training progress | 0.0181   |
+--------------------------------
+--------------------------------
+| episode reward    | 80       |
+| episode steps     | 29       |
+| epsilon           | 0.148    |
+| highest           | 16       |
+| loss              | 2.42     |
+| training progress | 0.0183   |
+--------------------------------
+--------------------------------
+| episode reward    | 552      |
+| episode steps     | 82       |
+| epsilon           | 0.148    |
+| highest           | 64       |
+| loss              | 2.33     |
+| training progress | 0.0186   |
+--------------------------------
+--------------------------------
+| episode reward    | 236      |
+| episode steps     | 56       |
+| epsilon           | 0.148    |
+| highest           | 32       |
+| loss              | 2.59     |
+| training progress | 0.0188   |
+--------------------------------
+---------------------------------
+| eval average score | 94.7     |
+| eval max socre     | 216      |
+---------------------------------
+--------------------------------
+| episode reward    | 104      |
+| episode steps     | 38       |
+| epsilon           | 0.148    |
+| highest           | 16       |
+| loss              | 2.73     |
+| training progress | 0.0191   |
+--------------------------------
+--------------------------------
+| episode reward    | 144      |
+| episode steps     | 45       |
+| epsilon           | 0.148    |
+| highest           | 16       |
+| loss              | 2.2      |
+| training progress | 0.0193   |
+--------------------------------
+--------------------------------
+| episode reward    | 76       |
+| episode steps     | 30       |
+| epsilon           | 0.148    |
+| highest           | 16       |
+| loss              | 2.16     |
+| training progress | 0.0196   |
+--------------------------------
+--------------------------------
+| episode reward    | 120      |
+| episode steps     | 45       |
+| epsilon           | 0.148    |
+| highest           | 16       |
+| loss              | 2.52     |
+| training progress | 0.0198   |
+--------------------------------
+--------------------------------
+| episode reward    | 260      |
+| episode steps     | 57       |
+| epsilon           | 0.148    |
+| highest           | 32       |
+| loss              | 2.53     |
+| training progress | 0.02     |
+--------------------------------
+---------------------------------
+| eval average score | 138      |
+| eval max socre     | 364      |
+---------------------------------
+--------------------------------
+| episode reward    | 352      |
+| episode steps     | 67       |
+| epsilon           | 0.147    |
+| highest           | 32       |
+| loss              | 2.05     |
+| training progress | 0.0203   |
+--------------------------------
+--------------------------------
+| episode reward    | 324      |
+| episode steps     | 61       |
+| epsilon           | 0.147    |
+| highest           | 32       |
+| loss              | 2.29     |
+| training progress | 0.0205   |
+--------------------------------
+--------------------------------
+| episode reward    | 352      |
+| episode steps     | 69       |
+| epsilon           | 0.147    |
+| highest           | 32       |
+| loss              | 1.94     |
+| training progress | 0.0208   |
+--------------------------------
+--------------------------------
+| episode reward    | 112      |
+| episode steps     | 38       |
+| epsilon           | 0.147    |
+| highest           | 16       |
+| loss              | 2.56     |
+| training progress | 0.021    |
+--------------------------------
+--------------------------------
+| episode reward    | 300      |
+| episode steps     | 65       |
+| epsilon           | 0.147    |
+| highest           | 32       |
+| loss              | 2.58     |
+| training progress | 0.0213   |
+--------------------------------
+---------------------------------
+| eval average score | 222      |
+| eval max socre     | 528      |
+---------------------------------
+--------------------------------
+| episode reward    | 236      |
+| episode steps     | 52       |
+| epsilon           | 0.147    |
+| highest           | 32       |
+| loss              | 2.5      |
+| training progress | 0.0215   |
+--------------------------------
+--------------------------------
+| episode reward    | 212      |
+| episode steps     | 56       |
+| epsilon           | 0.147    |
+| highest           | 16       |
+| loss              | 2.43     |
+| training progress | 0.0218   |
+--------------------------------
+--------------------------------
+| episode reward    | 268      |
+| episode steps     | 61       |
+| epsilon           | 0.147    |
+| highest           | 32       |
+| loss              | 2.97     |
+| training progress | 0.0221   |
+--------------------------------
+--------------------------------
+| episode reward    | 280      |
+| episode steps     | 63       |
+| epsilon           | 0.147    |
+| highest           | 32       |
+| loss              | 2.23     |
+| training progress | 0.0223   |
+--------------------------------
+--------------------------------
+| episode reward    | 188      |
+| episode steps     | 51       |
+| epsilon           | 0.147    |
+| highest           | 32       |
+| loss              | 2.75     |
+| training progress | 0.0226   |
+--------------------------------
+---------------------------------
+| eval average score | 148      |
+| eval max socre     | 440      |
+---------------------------------
+--------------------------------
+| episode reward    | 320      |
+| episode steps     | 66       |
+| epsilon           | 0.147    |
+| highest           | 32       |
+| loss              | 2.63     |
+| training progress | 0.0228   |
+--------------------------------
+--------------------------------
+| episode reward    | 380      |
+| episode steps     | 68       |
+| epsilon           | 0.147    |
+| highest           | 32       |
+| loss              | 2.66     |
+| training progress | 0.0231   |
+--------------------------------
+--------------------------------
+| episode reward    | 444      |
+| episode steps     | 70       |
+| epsilon           | 0.147    |
+| highest           | 64       |
+| loss              | 2.81     |
+| training progress | 0.0233   |
+--------------------------------
+--------------------------------
+| episode reward    | 484      |
+| episode steps     | 73       |
+| epsilon           | 0.147    |
+| highest           | 64       |
+| loss              | 2.37     |
+| training progress | 0.0236   |
+--------------------------------
+--------------------------------
+| episode reward    | 64       |
+| episode steps     | 34       |
+| epsilon           | 0.147    |
+| highest           | 8        |
+| loss              | 3.04     |
+| training progress | 0.0238   |
+--------------------------------
+---------------------------------
+| eval average score | 86.4     |
+| eval max socre     | 224      |
+---------------------------------
+--------------------------------
+| episode reward    | 520      |
+| episode steps     | 76       |
+| epsilon           | 0.147    |
+| highest           | 64       |
+| loss              | 2.68     |
+| training progress | 0.024    |
+--------------------------------
+--------------------------------
+| episode reward    | 120      |
+| episode steps     | 39       |
+| epsilon           | 0.147    |
+| highest           | 16       |
+| loss              | 2.37     |
+| training progress | 0.0243   |
+--------------------------------
+--------------------------------
+| episode reward    | 736      |
+| episode steps     | 100      |
+| epsilon           | 0.147    |
+| highest           | 64       |
+| loss              | 2.85     |
+| training progress | 0.0245   |
+--------------------------------
+--------------------------------
+| episode reward    | 256      |
+| episode steps     | 53       |
+| epsilon           | 0.147    |
+| highest           | 32       |
+| loss              | 2.63     |
+| training progress | 0.0248   |
+--------------------------------
+--------------------------------
+| episode reward    | 136      |
+| episode steps     | 42       |
+| epsilon           | 0.147    |
+| highest           | 16       |
+| loss              | 2.54     |
+| training progress | 0.025    |
+--------------------------------
+---------------------------------
+| eval average score | 203      |
+| eval max socre     | 532      |
+---------------------------------
+--------------------------------
+| episode reward    | 68       |
+| episode steps     | 29       |
+| epsilon           | 0.146    |
+| highest           | 16       |
+| loss              | 2.79     |
+| training progress | 0.0253   |
+--------------------------------
+--------------------------------
+| episode reward    | 208      |
+| episode steps     | 46       |
+| epsilon           | 0.146    |
+| highest           | 32       |
+| loss              | 3.04     |
+| training progress | 0.0255   |
+--------------------------------
+--------------------------------
+| episode reward    | 384      |
+| episode steps     | 70       |
+| epsilon           | 0.146    |
+| highest           | 32       |
+| loss              | 2.96     |
+| training progress | 0.0258   |
+--------------------------------
+--------------------------------
+| episode reward    | 720      |
+| episode steps     | 104      |
+| epsilon           | 0.146    |
+| highest           | 64       |
+| loss              | 2.88     |
+| training progress | 0.0261   |
+--------------------------------
+--------------------------------
+| episode reward    | 140      |
+| episode steps     | 34       |
+| epsilon           | 0.146    |
+| highest           | 32       |
+| loss              | 3.34     |
+| training progress | 0.0263   |
+--------------------------------
+---------------------------------
+| eval average score | 86.2     |
+| eval max socre     | 348      |
+---------------------------------
+--------------------------------
+| episode reward    | 192      |
+| episode steps     | 43       |
+| epsilon           | 0.146    |
+| highest           | 32       |
+| loss              | 3.04     |
+| training progress | 0.0266   |
+--------------------------------
+--------------------------------
+| episode reward    | 120      |
+| episode steps     | 38       |
+| epsilon           | 0.146    |
+| highest           | 16       |
+| loss              | 2.5      |
+| training progress | 0.0268   |
+--------------------------------
+--------------------------------
+| episode reward    | 428      |
+| episode steps     | 70       |
+| epsilon           | 0.146    |
+| highest           | 64       |
+| loss              | 3.39     |
+| training progress | 0.0271   |
+--------------------------------
+--------------------------------
+| episode reward    | 80       |
+| episode steps     | 32       |
+| epsilon           | 0.146    |
+| highest           | 16       |
+| loss              | 3.23     |
+| training progress | 0.0273   |
+--------------------------------
+--------------------------------
+| episode reward    | 280      |
+| episode steps     | 51       |
+| epsilon           | 0.146    |
+| highest           | 32       |
+| loss              | 2.92     |
+| training progress | 0.0276   |
+--------------------------------
+---------------------------------
+| eval average score | 91.2     |
+| eval max socre     | 424      |
+---------------------------------
+--------------------------------
+| episode reward    | 544      |
+| episode steps     | 85       |
+| epsilon           | 0.146    |
+| highest           | 64       |
+| loss              | 3.5      |
+| training progress | 0.0278   |
+--------------------------------
+--------------------------------
+| episode reward    | 292      |
+| episode steps     | 57       |
+| epsilon           | 0.146    |
+| highest           | 32       |
+| loss              | 2.92     |
+| training progress | 0.028    |
+--------------------------------
+--------------------------------
+| episode reward    | 128      |
+| episode steps     | 40       |
+| epsilon           | 0.146    |
+| highest           | 16       |
+| loss              | 3.28     |
+| training progress | 0.0283   |
+--------------------------------
+--------------------------------
+| episode reward    | 240      |
+| episode steps     | 48       |
+| epsilon           | 0.146    |
+| highest           | 32       |
+| loss              | 2.74     |
+| training progress | 0.0285   |
+--------------------------------
+--------------------------------
+| episode reward    | 548      |
+| episode steps     | 85       |
+| epsilon           | 0.146    |
+| highest           | 64       |
+| loss              | 3.02     |
+| training progress | 0.0288   |
+--------------------------------
+---------------------------------
+| eval average score | 264      |
+| eval max socre     | 632      |
+---------------------------------
+--------------------------------
+| episode reward    | 284      |
+| episode steps     | 62       |
+| epsilon           | 0.146    |
+| highest           | 32       |
+| loss              | 3.35     |
+| training progress | 0.029    |
+--------------------------------
+--------------------------------
+| episode reward    | 580      |
+| episode steps     | 86       |
+| epsilon           | 0.146    |
+| highest           | 64       |
+| loss              | 2.87     |
+| training progress | 0.0293   |
+--------------------------------
+--------------------------------
+| episode reward    | 1e+03    |
+| episode steps     | 111      |
+| epsilon           | 0.146    |
+| highest           | 128      |
+| loss              | 3.23     |
+| training progress | 0.0295   |
+--------------------------------
+--------------------------------
+| episode reward    | 180      |
+| episode steps     | 44       |
+| epsilon           | 0.146    |
+| highest           | 32       |
+| loss              | 2.67     |
+| training progress | 0.0298   |
+--------------------------------
+--------------------------------
+| episode reward    | 952      |
+| episode steps     | 103      |
+| epsilon           | 0.146    |
+| highest           | 128      |
+| loss              | 2.91     |
+| training progress | 0.0301   |
+--------------------------------
+---------------------------------
+| eval average score | 216      |
+| eval max socre     | 632      |
+---------------------------------
+--------------------------------
+| episode reward    | 552      |
+| episode steps     | 85       |
+| epsilon           | 0.145    |
+| highest           | 64       |
+| loss              | 3.06     |
+| training progress | 0.0303   |
+--------------------------------
+--------------------------------
+| episode reward    | 272      |
+| episode steps     | 58       |
+| epsilon           | 0.145    |
+| highest           | 32       |
+| loss              | 2.74     |
+| training progress | 0.0306   |
+--------------------------------
+--------------------------------
+| episode reward    | 332      |
+| episode steps     | 65       |
+| epsilon           | 0.145    |
+| highest           | 32       |
+| loss              | 2.72     |
+| training progress | 0.0308   |
+--------------------------------
+--------------------------------
+| episode reward    | 640      |
+| episode steps     | 94       |
+| epsilon           | 0.145    |
+| highest           | 64       |
+| loss              | 3.18     |
+| training progress | 0.0311   |
+--------------------------------
+--------------------------------
+| episode reward    | 928      |
+| episode steps     | 120      |
+| epsilon           | 0.145    |
+| highest           | 64       |
+| loss              | 2.82     |
+| training progress | 0.0313   |
+--------------------------------
+---------------------------------
+| eval average score | 437      |
+| eval max socre     | 912      |
+---------------------------------
+--------------------------------
+| episode reward    | 960      |
+| episode steps     | 112      |
+| epsilon           | 0.145    |
+| highest           | 128      |
+| loss              | 2.71     |
+| training progress | 0.0316   |
+--------------------------------
+--------------------------------
+| episode reward    | 652      |
+| episode steps     | 91       |
+| epsilon           | 0.145    |
+| highest           | 64       |
+| loss              | 2.99     |
+| training progress | 0.0318   |
+--------------------------------
+--------------------------------
+| episode reward    | 352      |
+| episode steps     | 73       |
+| epsilon           | 0.145    |
+| highest           | 32       |
+| loss              | 3.16     |
+| training progress | 0.0321   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.29e+03 |
+| episode steps     | 144      |
+| epsilon           | 0.145    |
+| highest           | 128      |
+| loss              | 3.2      |
+| training progress | 0.0323   |
+--------------------------------
+--------------------------------
+| episode reward    | 356      |
+| episode steps     | 69       |
+| epsilon           | 0.145    |
+| highest           | 32       |
+| loss              | 3.58     |
+| training progress | 0.0326   |
+--------------------------------
+---------------------------------
+| eval average score | 611      |
+| eval max socre     | 1.31e+03 |
+---------------------------------
+--------------------------------
+| episode reward    | 4        |
+| episode steps     | 13       |
+| epsilon           | 0.145    |
+| highest           | 4        |
+| loss              | 3.54     |
+| training progress | 0.0328   |
+--------------------------------
+--------------------------------
+| episode reward    | 776      |
+| episode steps     | 108      |
+| epsilon           | 0.145    |
+| highest           | 64       |
+| loss              | 2.64     |
+| training progress | 0.0331   |
+--------------------------------
+--------------------------------
+| episode reward    | 672      |
+| episode steps     | 93       |
+| epsilon           | 0.145    |
+| highest           | 64       |
+| loss              | 2.84     |
+| training progress | 0.0333   |
+--------------------------------
+--------------------------------
+| episode reward    | 500      |
+| episode steps     | 70       |
+| epsilon           | 0.145    |
+| highest           | 64       |
+| loss              | 3.2      |
+| training progress | 0.0336   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.23e+03 |
+| episode steps     | 136      |
+| epsilon           | 0.145    |
+| highest           | 128      |
+| loss              | 3.24     |
+| training progress | 0.0338   |
+--------------------------------
+---------------------------------
+| eval average score | 842      |
+| eval max socre     | 2.1e+03  |
+---------------------------------
+--------------------------------
+| episode reward    | 428      |
+| episode steps     | 63       |
+| epsilon           | 0.145    |
+| highest           | 64       |
+| loss              | 3.28     |
+| training progress | 0.034    |
+--------------------------------
+--------------------------------
+| episode reward    | 704      |
+| episode steps     | 93       |
+| epsilon           | 0.145    |
+| highest           | 64       |
+| loss              | 3.48     |
+| training progress | 0.0343   |
+--------------------------------
+--------------------------------
+| episode reward    | 216      |
+| episode steps     | 51       |
+| epsilon           | 0.145    |
+| highest           | 32       |
+| loss              | 3.47     |
+| training progress | 0.0345   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.18e+03 |
+| episode steps     | 139      |
+| epsilon           | 0.145    |
+| highest           | 128      |
+| loss              | 3.7      |
+| training progress | 0.0348   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.3e+03  |
+| episode steps     | 143      |
+| epsilon           | 0.145    |
+| highest           | 128      |
+| loss              | 3.44     |
+| training progress | 0.035    |
+--------------------------------
+---------------------------------
+| eval average score | 853      |
+| eval max socre     | 2.27e+03 |
+---------------------------------
+--------------------------------
+| episode reward    | 520      |
+| episode steps     | 77       |
+| epsilon           | 0.145    |
+| highest           | 64       |
+| loss              | 3.75     |
+| training progress | 0.0353   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.62e+03 |
+| episode steps     | 175      |
+| epsilon           | 0.145    |
+| highest           | 128      |
+| loss              | 3.31     |
+| training progress | 0.0355   |
+--------------------------------
+--------------------------------
+| episode reward    | 96       |
+| episode steps     | 31       |
+| epsilon           | 0.145    |
+| highest           | 16       |
+| loss              | 3.35     |
+| training progress | 0.0358   |
+--------------------------------
+--------------------------------
+| episode reward    | 616      |
+| episode steps     | 85       |
+| epsilon           | 0.145    |
+| highest           | 64       |
+| loss              | 3.44     |
+| training progress | 0.036    |
+--------------------------------
+--------------------------------
+| episode reward    | 1.28e+03 |
+| episode steps     | 139      |
+| epsilon           | 0.145    |
+| highest           | 128      |
+| loss              | 3.36     |
+| training progress | 0.0363   |
+--------------------------------
+---------------------------------
+| eval average score | 727      |
+| eval max socre     | 2.42e+03 |
+---------------------------------
+--------------------------------
+| episode reward    | 20       |
+| episode steps     | 17       |
+| epsilon           | 0.145    |
+| highest           | 8        |
+| loss              | 3.57     |
+| training progress | 0.0365   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.18e+03 |
+| episode steps     | 123      |
+| epsilon           | 0.145    |
+| highest           | 128      |
+| loss              | 3.27     |
+| training progress | 0.0368   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.32e+03 |
+| episode steps     | 144      |
+| epsilon           | 0.145    |
+| highest           | 128      |
+| loss              | 3.26     |
+| training progress | 0.037    |
+--------------------------------
+--------------------------------
+| episode reward    | 808      |
+| episode steps     | 105      |
+| epsilon           | 0.145    |
+| highest           | 64       |
+| loss              | 2.87     |
+| training progress | 0.0373   |
+--------------------------------
+--------------------------------
+| episode reward    | 388      |
+| episode steps     | 60       |
+| epsilon           | 0.145    |
+| highest           | 64       |
+| loss              | 3.25     |
+| training progress | 0.0376   |
+--------------------------------
+---------------------------------
+| eval average score | 850      |
+| eval max socre     | 2.35e+03 |
+---------------------------------
+--------------------------------
+| episode reward    | 576      |
+| episode steps     | 88       |
+| epsilon           | 0.145    |
+| highest           | 64       |
+| loss              | 3.25     |
+| training progress | 0.0378   |
+--------------------------------
+--------------------------------
+| episode reward    | 580      |
+| episode steps     | 81       |
+| epsilon           | 0.145    |
+| highest           | 64       |
+| loss              | 3.52     |
+| training progress | 0.0381   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.2e+03  |
+| episode steps     | 133      |
+| epsilon           | 0.145    |
+| highest           | 128      |
+| loss              | 3.65     |
+| training progress | 0.0383   |
+--------------------------------
+--------------------------------
+| episode reward    | 664      |
+| episode steps     | 95       |
+| epsilon           | 0.145    |
+| highest           | 64       |
+| loss              | 3.26     |
+| training progress | 0.0386   |
+--------------------------------
+--------------------------------
+| episode reward    | 56       |
+| episode steps     | 31       |
+| epsilon           | 0.145    |
+| highest           | 8        |
+| loss              | 3.26     |
+| training progress | 0.0388   |
+--------------------------------
+---------------------------------
+| eval average score | 338      |
+| eval max socre     | 1.24e+03 |
+---------------------------------
+--------------------------------
+| episode reward    | 4        |
+| episode steps     | 11       |
+| epsilon           | 0.145    |
+| highest           | 4        |
+| loss              | 3.36     |
+| training progress | 0.0391   |
+--------------------------------
+--------------------------------
+| episode reward    | 276      |
+| episode steps     | 60       |
+| epsilon           | 0.145    |
+| highest           | 32       |
+| loss              | 3.29     |
+| training progress | 0.0393   |
+--------------------------------
+--------------------------------
+| episode reward    | 16       |
+| episode steps     | 15       |
+| epsilon           | 0.145    |
+| highest           | 8        |
+| loss              | 3.44     |
+| training progress | 0.0396   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.36e+03 |
+| episode steps     | 149      |
+| epsilon           | 0.145    |
+| highest           | 128      |
+| loss              | 3.18     |
+| training progress | 0.0398   |
+--------------------------------
+--------------------------------
+| episode reward    | 884      |
+| episode steps     | 117      |
+| epsilon           | 0.145    |
+| highest           | 64       |
+| loss              | 3.34     |
+| training progress | 0.0401   |
+--------------------------------
+---------------------------------
+| eval average score | 767      |
+| eval max socre     | 2.3e+03  |
+---------------------------------
+--------------------------------
+| episode reward    | 1.25e+03 |
+| episode steps     | 132      |
+| epsilon           | 0.144    |
+| highest           | 128      |
+| loss              | 4.01     |
+| training progress | 0.0403   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.14e+03 |
+| episode steps     | 127      |
+| epsilon           | 0.144    |
+| highest           | 128      |
+| loss              | 3.6      |
+| training progress | 0.0406   |
+--------------------------------
+--------------------------------
+| episode reward    | 988      |
+| episode steps     | 116      |
+| epsilon           | 0.144    |
+| highest           | 128      |
+| loss              | 3.56     |
+| training progress | 0.0408   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.22e+03 |
+| episode steps     | 133      |
+| epsilon           | 0.144    |
+| highest           | 128      |
+| loss              | 3.58     |
+| training progress | 0.0411   |
+--------------------------------
+--------------------------------
+| episode reward    | 656      |
+| episode steps     | 94       |
+| epsilon           | 0.144    |
+| highest           | 64       |
+| loss              | 4.01     |
+| training progress | 0.0413   |
+--------------------------------
+---------------------------------
+| eval average score | 783      |
+| eval max socre     | 1.53e+03 |
+---------------------------------
+--------------------------------
+| episode reward    | 592      |
+| episode steps     | 83       |
+| epsilon           | 0.144    |
+| highest           | 64       |
+| loss              | 3.63     |
+| training progress | 0.0415   |
+--------------------------------
+--------------------------------
+| episode reward    | 252      |
+| episode steps     | 61       |
+| epsilon           | 0.144    |
+| highest           | 32       |
+| loss              | 3.56     |
+| training progress | 0.0418   |
+--------------------------------
+--------------------------------
+| episode reward    | 248      |
+| episode steps     | 49       |
+| epsilon           | 0.144    |
+| highest           | 32       |
+| loss              | 3.75     |
+| training progress | 0.042    |
+--------------------------------
+--------------------------------
+| episode reward    | 336      |
+| episode steps     | 67       |
+| epsilon           | 0.144    |
+| highest           | 32       |
+| loss              | 3.03     |
+| training progress | 0.0423   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.74e+03 |
+| episode steps     | 180      |
+| epsilon           | 0.144    |
+| highest           | 128      |
+| loss              | 3.98     |
+| training progress | 0.0425   |
+--------------------------------
+---------------------------------
+| eval average score | 711      |
+| eval max socre     | 1.44e+03 |
+---------------------------------
+--------------------------------
+| episode reward    | 1.36e+03 |
+| episode steps     | 151      |
+| epsilon           | 0.144    |
+| highest           | 128      |
+| loss              | 3.81     |
+| training progress | 0.0428   |
+--------------------------------
+--------------------------------
+| episode reward    | 560      |
+| episode steps     | 85       |
+| epsilon           | 0.144    |
+| highest           | 64       |
+| loss              | 3.16     |
+| training progress | 0.043    |
+--------------------------------
+--------------------------------
+| episode reward    | 1.28e+03 |
+| episode steps     | 134      |
+| epsilon           | 0.144    |
+| highest           | 128      |
+| loss              | 4.12     |
+| training progress | 0.0433   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.19e+03 |
+| episode steps     | 127      |
+| epsilon           | 0.144    |
+| highest           | 128      |
+| loss              | 3.37     |
+| training progress | 0.0435   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.32e+03 |
+| episode steps     | 141      |
+| epsilon           | 0.144    |
+| highest           | 128      |
+| loss              | 3.49     |
+| training progress | 0.0438   |
+--------------------------------
+---------------------------------
+| eval average score | 829      |
+| eval max socre     | 2.04e+03 |
+---------------------------------
+--------------------------------
+| episode reward    | 1.09e+03 |
+| episode steps     | 125      |
+| epsilon           | 0.144    |
+| highest           | 128      |
+| loss              | 3.09     |
+| training progress | 0.044    |
+--------------------------------
+--------------------------------
+| episode reward    | 212      |
+| episode steps     | 51       |
+| epsilon           | 0.144    |
+| highest           | 32       |
+| loss              | 4.14     |
+| training progress | 0.0443   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.46e+03 |
+| episode steps     | 148      |
+| epsilon           | 0.144    |
+| highest           | 128      |
+| loss              | 3.62     |
+| training progress | 0.0445   |
+--------------------------------
+--------------------------------
+| episode reward    | 280      |
+| episode steps     | 57       |
+| epsilon           | 0.144    |
+| highest           | 32       |
+| loss              | 3.53     |
+| training progress | 0.0448   |
+--------------------------------
+--------------------------------
+| episode reward    | 52       |
+| episode steps     | 21       |
+| epsilon           | 0.144    |
+| highest           | 16       |
+| loss              | 3.68     |
+| training progress | 0.045    |
+--------------------------------
+---------------------------------
+| eval average score | 55.9     |
+| eval max socre     | 268      |
+---------------------------------
+--------------------------------
+| episode reward    | 2.33e+03 |
+| episode steps     | 208      |
+| epsilon           | 0.143    |
+| highest           | 256      |
+| loss              | 3.33     |
+| training progress | 0.0453   |
+--------------------------------
+--------------------------------
+| episode reward    | 2.28e+03 |
+| episode steps     | 194      |
+| epsilon           | 0.143    |
+| highest           | 256      |
+| loss              | 3.65     |
+| training progress | 0.0456   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.04e+03 |
+| episode steps     | 114      |
+| epsilon           | 0.143    |
+| highest           | 128      |
+| loss              | 3.4      |
+| training progress | 0.0458   |
+--------------------------------
+--------------------------------
+| episode reward    | 392      |
+| episode steps     | 60       |
+| epsilon           | 0.143    |
+| highest           | 64       |
+| loss              | 3.67     |
+| training progress | 0.0461   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.08e+03 |
+| episode steps     | 121      |
+| epsilon           | 0.143    |
+| highest           | 128      |
+| loss              | 3.61     |
+| training progress | 0.0463   |
+--------------------------------
+---------------------------------
+| eval average score | 751      |
+| eval max socre     | 2.47e+03 |
+---------------------------------
+--------------------------------
+| episode reward    | 1.24e+03 |
+| episode steps     | 130      |
+| epsilon           | 0.143    |
+| highest           | 128      |
+| loss              | 3.56     |
+| training progress | 0.0466   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.03e+03 |
+| episode steps     | 121      |
+| epsilon           | 0.143    |
+| highest           | 128      |
+| loss              | 2.99     |
+| training progress | 0.0468   |
+--------------------------------
+--------------------------------
+| episode reward    | 884      |
+| episode steps     | 117      |
+| epsilon           | 0.143    |
+| highest           | 64       |
+| loss              | 3.26     |
+| training progress | 0.0471   |
+--------------------------------
+--------------------------------
+| episode reward    | 984      |
+| episode steps     | 116      |
+| epsilon           | 0.143    |
+| highest           | 128      |
+| loss              | 3.28     |
+| training progress | 0.0473   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.43e+03 |
+| episode steps     | 157      |
+| epsilon           | 0.143    |
+| highest           | 128      |
+| loss              | 3.85     |
+| training progress | 0.0476   |
+--------------------------------
+---------------------------------
+| eval average score | 843      |
+| eval max socre     | 2.68e+03 |
+---------------------------------
+--------------------------------
+| episode reward    | 1.18e+03 |
+| episode steps     | 133      |
+| epsilon           | 0.143    |
+| highest           | 128      |
+| loss              | 3.87     |
+| training progress | 0.0478   |
+--------------------------------
+--------------------------------
+| episode reward    | 24       |
+| episode steps     | 18       |
+| epsilon           | 0.143    |
+| highest           | 8        |
+| loss              | 3.15     |
+| training progress | 0.0481   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.23e+03 |
+| episode steps     | 140      |
+| epsilon           | 0.143    |
+| highest           | 128      |
+| loss              | 2.69     |
+| training progress | 0.0483   |
+--------------------------------
+--------------------------------
+| episode reward    | 544      |
+| episode steps     | 84       |
+| epsilon           | 0.143    |
+| highest           | 64       |
+| loss              | 3.45     |
+| training progress | 0.0486   |
+--------------------------------
+--------------------------------
+| episode reward    | 244      |
+| episode steps     | 55       |
+| epsilon           | 0.143    |
+| highest           | 32       |
+| loss              | 4.05     |
+| training progress | 0.0488   |
+--------------------------------
+---------------------------------
+| eval average score | 744      |
+| eval max socre     | 2.21e+03 |
+---------------------------------
+--------------------------------
+| episode reward    | 2.66e+03 |
+| episode steps     | 224      |
+| epsilon           | 0.143    |
+| highest           | 256      |
+| loss              | 3.66     |
+| training progress | 0.0491   |
+--------------------------------
+--------------------------------
+| episode reward    | 904      |
+| episode steps     | 112      |
+| epsilon           | 0.143    |
+| highest           | 64       |
+| loss              | 3.39     |
+| training progress | 0.0493   |
+--------------------------------
+--------------------------------
+| episode reward    | 828      |
+| episode steps     | 101      |
+| epsilon           | 0.143    |
+| highest           | 64       |
+| loss              | 3.94     |
+| training progress | 0.0495   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.3e+03  |
+| episode steps     | 142      |
+| epsilon           | 0.143    |
+| highest           | 128      |
+| loss              | 3.21     |
+| training progress | 0.0498   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.43e+03 |
+| episode steps     | 152      |
+| epsilon           | 0.143    |
+| highest           | 128      |
+| loss              | 3.82     |
+| training progress | 0.05     |
+--------------------------------
+---------------------------------
+| eval average score | 913      |
+| eval max socre     | 2.29e+03 |
+---------------------------------
+--------------------------------
+| episode reward    | 1.11e+03 |
+| episode steps     | 120      |
+| epsilon           | 0.142    |
+| highest           | 128      |
+| loss              | 3.54     |
+| training progress | 0.0503   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.71e+03 |
+| episode steps     | 178      |
+| epsilon           | 0.142    |
+| highest           | 128      |
+| loss              | 4.14     |
+| training progress | 0.0505   |
+--------------------------------
+--------------------------------
+| episode reward    | 36       |
+| episode steps     | 22       |
+| epsilon           | 0.142    |
+| highest           | 8        |
+| loss              | 3.33     |
+| training progress | 0.0508   |
+--------------------------------
+--------------------------------
+| episode reward    | 272      |
+| episode steps     | 60       |
+| epsilon           | 0.142    |
+| highest           | 32       |
+| loss              | 3.4      |
+| training progress | 0.051    |
+--------------------------------
+--------------------------------
+| episode reward    | 584      |
+| episode steps     | 91       |
+| epsilon           | 0.142    |
+| highest           | 64       |
+| loss              | 3.32     |
+| training progress | 0.0513   |
+--------------------------------
+---------------------------------
+| eval average score | 644      |
+| eval max socre     | 2.43e+03 |
+---------------------------------
+--------------------------------
+| episode reward    | 1.32e+03 |
+| episode steps     | 143      |
+| epsilon           | 0.142    |
+| highest           | 128      |
+| loss              | 3.96     |
+| training progress | 0.0515   |
+--------------------------------
+--------------------------------
+| episode reward    | 984      |
+| episode steps     | 112      |
+| epsilon           | 0.142    |
+| highest           | 128      |
+| loss              | 3.67     |
+| training progress | 0.0518   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.29e+03 |
+| episode steps     | 144      |
+| epsilon           | 0.142    |
+| highest           | 128      |
+| loss              | 3.48     |
+| training progress | 0.052    |
+--------------------------------
+--------------------------------
+| episode reward    | 976      |
+| episode steps     | 103      |
+| epsilon           | 0.142    |
+| highest           | 128      |
+| loss              | 3.35     |
+| training progress | 0.0523   |
+--------------------------------
+--------------------------------
+| episode reward    | 560      |
+| episode steps     | 78       |
+| epsilon           | 0.142    |
+| highest           | 64       |
+| loss              | 3.93     |
+| training progress | 0.0525   |
+--------------------------------
+---------------------------------
+| eval average score | 917      |
+| eval max socre     | 2.78e+03 |
+---------------------------------
+--------------------------------
+| episode reward    | 1.29e+03 |
+| episode steps     | 138      |
+| epsilon           | 0.142    |
+| highest           | 128      |
+| loss              | 3.71     |
+| training progress | 0.0528   |
+--------------------------------
+--------------------------------
+| episode reward    | 200      |
+| episode steps     | 46       |
+| epsilon           | 0.142    |
+| highest           | 32       |
+| loss              | 3.47     |
+| training progress | 0.053    |
+--------------------------------
+--------------------------------
+| episode reward    | 676      |
+| episode steps     | 97       |
+| epsilon           | 0.142    |
+| highest           | 64       |
+| loss              | 3.36     |
+| training progress | 0.0533   |
+--------------------------------
+--------------------------------
+| episode reward    | 552      |
+| episode steps     | 86       |
+| epsilon           | 0.142    |
+| highest           | 64       |
+| loss              | 3.34     |
+| training progress | 0.0536   |
+--------------------------------
+--------------------------------
+| episode reward    | 2.2e+03  |
+| episode steps     | 181      |
+| epsilon           | 0.142    |
+| highest           | 256      |
+| loss              | 3.85     |
+| training progress | 0.0538   |
+--------------------------------
+---------------------------------
+| eval average score | 656      |
+| eval max socre     | 1.97e+03 |
+---------------------------------
+--------------------------------
+| episode reward    | 772      |
+| episode steps     | 105      |
+| epsilon           | 0.142    |
+| highest           | 64       |
+| loss              | 3.42     |
+| training progress | 0.0541   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.47e+03 |
+| episode steps     | 163      |
+| epsilon           | 0.142    |
+| highest           | 128      |
+| loss              | 3.11     |
+| training progress | 0.0543   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.23e+03 |
+| episode steps     | 136      |
+| epsilon           | 0.142    |
+| highest           | 128      |
+| loss              | 3.21     |
+| training progress | 0.0546   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.18e+03 |
+| episode steps     | 128      |
+| epsilon           | 0.142    |
+| highest           | 128      |
+| loss              | 3.62     |
+| training progress | 0.0548   |
+--------------------------------
+--------------------------------
+| episode reward    | 588      |
+| episode steps     | 87       |
+| epsilon           | 0.142    |
+| highest           | 64       |
+| loss              | 3.38     |
+| training progress | 0.0551   |
+--------------------------------
+---------------------------------
+| eval average score | 1.09e+03 |
+| eval max socre     | 3.02e+03 |
+---------------------------------
+--------------------------------
+| episode reward    | 1.36e+03 |
+| episode steps     | 151      |
+| epsilon           | 0.142    |
+| highest           | 128      |
+| loss              | 3.04     |
+| training progress | 0.0553   |
+--------------------------------
+--------------------------------
+| episode reward    | 844      |
+| episode steps     | 111      |
+| epsilon           | 0.142    |
+| highest           | 64       |
+| loss              | 3.63     |
+| training progress | 0.0556   |
+--------------------------------
+--------------------------------
+| episode reward    | 608      |
+| episode steps     | 92       |
+| epsilon           | 0.142    |
+| highest           | 64       |
+| loss              | 3.1      |
+| training progress | 0.0558   |
+--------------------------------
+--------------------------------
+| episode reward    | 672      |
+| episode steps     | 88       |
+| epsilon           | 0.142    |
+| highest           | 64       |
+| loss              | 3.93     |
+| training progress | 0.0561   |
+--------------------------------
+--------------------------------
+| episode reward    | 452      |
+| episode steps     | 66       |
+| epsilon           | 0.142    |
+| highest           | 64       |
+| loss              | 4        |
+| training progress | 0.0563   |
+--------------------------------
+---------------------------------
+| eval average score | 670      |
+| eval max socre     | 2.76e+03 |
+---------------------------------
+--------------------------------
+| episode reward    | 2.19e+03 |
+| episode steps     | 186      |
+| epsilon           | 0.142    |
+| highest           | 256      |
+| loss              | 3.93     |
+| training progress | 0.0566   |
+--------------------------------
+--------------------------------
+| episode reward    | 588      |
+| episode steps     | 91       |
+| epsilon           | 0.142    |
+| highest           | 64       |
+| loss              | 3.74     |
+| training progress | 0.0568   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.3e+03  |
+| episode steps     | 138      |
+| epsilon           | 0.142    |
+| highest           | 128      |
+| loss              | 3.46     |
+| training progress | 0.057    |
+--------------------------------
+--------------------------------
+| episode reward    | 428      |
+| episode steps     | 62       |
+| epsilon           | 0.142    |
+| highest           | 64       |
+| loss              | 3.84     |
+| training progress | 0.0573   |
+--------------------------------
+--------------------------------
+| episode reward    | 464      |
+| episode steps     | 63       |
+| epsilon           | 0.142    |
+| highest           | 64       |
+| loss              | 3.21     |
+| training progress | 0.0575   |
+--------------------------------
+---------------------------------
+| eval average score | 887      |
+| eval max socre     | 2.77e+03 |
+---------------------------------
+--------------------------------
+| episode reward    | 1.33e+03 |
+| episode steps     | 147      |
+| epsilon           | 0.142    |
+| highest           | 128      |
+| loss              | 3.68     |
+| training progress | 0.0578   |
+--------------------------------
+--------------------------------
+| episode reward    | 500      |
+| episode steps     | 71       |
+| epsilon           | 0.142    |
+| highest           | 64       |
+| loss              | 3.55     |
+| training progress | 0.058    |
+--------------------------------
+--------------------------------
+| episode reward    | 1.23e+03 |
+| episode steps     | 134      |
+| epsilon           | 0.142    |
+| highest           | 128      |
+| loss              | 3.96     |
+| training progress | 0.0583   |
+--------------------------------
+--------------------------------
+| episode reward    | 388      |
+| episode steps     | 74       |
+| epsilon           | 0.142    |
+| highest           | 32       |
+| loss              | 2.9      |
+| training progress | 0.0585   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.18e+03 |
+| episode steps     | 120      |
+| epsilon           | 0.142    |
+| highest           | 128      |
+| loss              | 3.17     |
+| training progress | 0.0588   |
+--------------------------------
+---------------------------------
+| eval average score | 756      |
+| eval max socre     | 2.23e+03 |
+---------------------------------
+--------------------------------
+| episode reward    | 2e+03    |
+| episode steps     | 165      |
+| epsilon           | 0.142    |
+| highest           | 256      |
+| loss              | 3.46     |
+| training progress | 0.059    |
+--------------------------------
+--------------------------------
+| episode reward    | 792      |
+| episode steps     | 97       |
+| epsilon           | 0.142    |
+| highest           | 64       |
+| loss              | 3.26     |
+| training progress | 0.0593   |
+--------------------------------
+--------------------------------
+| episode reward    | 828      |
+| episode steps     | 104      |
+| epsilon           | 0.142    |
+| highest           | 64       |
+| loss              | 3.11     |
+| training progress | 0.0595   |
+--------------------------------
+--------------------------------
+| episode reward    | 704      |
+| episode steps     | 105      |
+| epsilon           | 0.142    |
+| highest           | 64       |
+| loss              | 3.27     |
+| training progress | 0.0598   |
+--------------------------------
+--------------------------------
+| episode reward    | 2.16e+03 |
+| episode steps     | 192      |
+| epsilon           | 0.142    |
+| highest           | 256      |
+| loss              | 3.36     |
+| training progress | 0.06     |
+--------------------------------
+---------------------------------
+| eval average score | 299      |
+| eval max socre     | 1.86e+03 |
+---------------------------------

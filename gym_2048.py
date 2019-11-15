@@ -57,7 +57,7 @@ class Game2048Env(gym.Env):   # directions 0, 1, 2, 3 are up, right, down, left
         self.set_illegal_move_reward(0.)
         self.set_max_tile(None)
 
-        self.max_illegal = 50     # max number of illegal actions
+        self.max_illegal = 10     # max number of illegal actions
         self.num_illegal = 0
 
         # Initialise seed
