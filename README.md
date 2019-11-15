@@ -34,8 +34,10 @@ some example:
 
 ## Performance of Priority DQN
 Training for 45k episodes and max eval mean score is 7700(eval for 50 episodes).
-
+![image](https://github.com/YangRui2015/2048_env/blob/master/pictures/trianing_info.png)
+![image](https://github.com/YangRui2015/2048_env/blob/master/pictures/mean_eval_score.png)
 
 
 ## Update
 1. add max steps and max illegal steps of one episode;
+2. add dqn agent and training infomation;
