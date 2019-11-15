@@ -1,4 +1,4 @@
-# 2048 Environment for Reinforcement Learning and DQN Algorithm implementation
+# 2048 Environment and DQN Algorithm implementation
 
 Thanks to the author of gym-2048 https://github.com/rgal/gym-2048. The code is easy to understand and runs efficiently. I just made some little changes to make it a better RL environment.
 And I implemented dqn with many tricks using pytorch:
