@@ -1,6 +1,14 @@
-# 2048 Environment for Reinforcement Learning
+# 2048 Environment for Reinforcement Learning and DQN Algorithm implementation
 
 Thanks to the author of gym-2048 https://github.com/rgal/gym-2048. The code is easy to understand and runs efficiently. I just made some little changes to make it a better RL environment.
+And I implemented dqn with many tricks using pytorch:
+- [x] Randomly fill buffer first;
+- [x] Soft target replacing;
+- [x] Epsilon decay;
+- [x] Clip gradient norm;
+- [x] Double DQN;
+- [x] Priority Experience Replay;
+
 
 
 ## Performance of environment
@@ -23,6 +31,10 @@ average steps:141.288;
 
 some example:  
 ![image](https://github.com/YangRui2015/2048_env/blob/master/pictures/example.png)
+
+## Performance of Priority DQN
+Training for 45k episodes and max eval mean score is 7700(eval for 50 episodes).
+
 
 
 ## Update
