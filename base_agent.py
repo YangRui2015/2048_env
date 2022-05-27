@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 # base_agent.py
-# author: yangrui
-# description: 
-# created: 2019-09-29T15:01:38.383Z+08:00
-# last-modified: 2019-09-29T15:01:38.383Z+08:00
-# email: yangrui19@mails.tsinghua.edu.cn
 
 from gym_2048 import Game2048Env
 import random
@@ -43,7 +38,7 @@ if __name__ == "__main__":
                 break
         
         end = time.time()
-        print('episode time:{} s\n'.format(end - start))
+        # print('episode time:{} s\n'.format(end - start))
         return end - start, info['highest'], info['score'], info['steps']
 
     time_lis, highest_lis, score_lis, steps_lis = [], [], [], []

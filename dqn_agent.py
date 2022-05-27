@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 # dqn_agent.py
-# author: yangrui
-# description: 
-# created: 2019-10-12T11:07:45.524Z+08:00
-# last-modified: 2019-10-12T11:07:45.524Z+08:00
-# email: yangrui19@mails.tsinghua.edu.cn
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -29,7 +24,7 @@ class DQN():
     conv_size = (32, 64)   # num filters
     fc_size = (512, 128)
 
-    def __init__(self, num_state, num_action, enable_double=False, enable_priority=True):
+    def __init__(self, num_state, num_action, enable_double=True, enable_priority=True):
         super(DQN, self).__init__()
         self.num_state = num_state
         self.num_action = num_action
@@ -88,29 +83,22 @@ class DQN():
         batch_next_state = torch.FloatTensor(batch_memory[:,-self.num_state:])
 
         #q_eval
-        q_eval_total = self.eval_net(batch_state)
-        q_eval = q_eval_total.gather(1, batch_action)
-        q_next = self.target_net(batch_next_state).detach()
+        q_eval = self.eval_net(batch_state).gather(1, batch_action)
+        q_eval_next = self.eval_net(batch_next_state)
+        q_target_next = self.target_net(batch_next_state).detach()
 
         if self.enable_double:
-            q_eval_argmax = q_eval_total.max(1)[1].view(self.batch_size, 1)
-            q_max = q_next.gather(1, q_eval_argmax).view(self.batch_size, 1)
+            q_eval_argmax = q_eval_next.max(1)[1].view(self.batch_size, 1)
+            q_max = q_target_next.gather(1, q_eval_argmax).view(self.batch_size, 1)
         else:
-            q_max = q_next.max(1)[0].view(self.batch_size, 1)
-
+            q_max = q_target_next.max(1)[0].view(self.batch_size, 1)
         q_target = batch_reward + self.gamma * q_max
 
         if self.enable_priority:
             abs_errors = (q_target - q_eval.data).abs()
             self.buffer.update(tree_idx, abs_errors)
-            # loss = (torch.FloatTensor(ISWeights) * (q_target - q_eval).pow(2)).mean()   
-            loss = (q_target - q_eval).pow(2).mean() # 可能去掉ISweight更好？？
-
-            
-            # print(ISWeights)
-            # print(loss)
-
-            # import pdb; pdb.set_trace()
+            loss = (torch.FloatTensor(ISWeights) * (q_target - q_eval).pow(2)).mean()   # with importance sampling weight
+            # loss = (q_target - q_eval).pow(2).mean()  # without importance sampling weight
         else:
             loss = F.mse_loss(q_eval, q_target)
         

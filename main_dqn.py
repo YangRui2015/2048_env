@@ -1,4 +1,3 @@
-from ppo_agent import PPO
 from dqn_agent import DQN
 from gym_2048 import Game2048Env
 import torch

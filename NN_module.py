@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
 # NN.py
 # author: yangrui
-# description: 
-# created: 2019-10-30T16:32:31.081Z+08:00
-# last-modified: 2019-10-30T16:32:31.081Z+08:00
-# email: yangrui19@mails.tsinghua.edu.cn
 
 import torch
 import torch.nn as nn

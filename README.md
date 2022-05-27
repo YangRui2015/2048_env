@@ -33,7 +33,7 @@ some example:
 ![image](https://github.com/YangRui2015/2048_env/blob/master/pictures/example.png)
 
 ## Performance of Priority DQN
-Training for 45k episodes and max eval mean score is 7700(eval for 50 episodes).
+Training for 45k episodes and the max eval mean score is 7700(eval for 50 episodes).
 ![image](https://github.com/YangRui2015/2048_env/blob/master/pictures/trianing_info.png)
 ![image](https://github.com/YangRui2015/2048_env/blob/master/pictures/mean_eval_score.png)
 
@@ -41,3 +41,4 @@ Training for 45k episodes and max eval mean score is 7700(eval for 50 episodes).
 ## Update
 1. add max steps and max illegal steps of one episode;
 2. add dqn agent and training infomation;
+3. fix bug on the Double Q trick (the issue raised by mythsman);
